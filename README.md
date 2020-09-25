@@ -1,2 +1,2 @@
 # aita
-Artificial Intelligence Teaching Assistant
+Artificial Intelligence Teaching Assistant 
